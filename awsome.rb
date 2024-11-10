@@ -33,7 +33,6 @@ end
 1.times do
   print angel 1.5,1, 0.5
   sample :loop_garzul , amp: 1, rate: 0.75
-  freaky 2, 1, 0.5
   sleep sample_duration :loop_garzul
   
   5.times do
